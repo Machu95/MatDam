@@ -1,4 +1,4 @@
-<?
+<?php
 require 'config.php';
 
 $result = mysql_query('select * from tab1');
